@@ -2,3 +2,4 @@
 $ file -C -m .mgc 
 $ file -i -m .mgc *
 -m
+$ file -m school.mgc * 
